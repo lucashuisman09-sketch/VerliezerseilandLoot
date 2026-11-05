@@ -1,0 +1,7 @@
+
+name: VerliezerseilandLoot
+version: 1.0
+main: nl.lucashuisman.verliezerseilandloot.VerliezerseilandLoot
+api-version: '1.21.10'
+author: Lucas
+description: Extra Trial Vault loot op Verliezerseiland
